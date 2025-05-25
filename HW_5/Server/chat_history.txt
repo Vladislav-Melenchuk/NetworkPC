@@ -1,0 +1,11 @@
+style [15:32:22]: hello
+style [15:32:34]: hello
+test2 [15:33:18]: hello
+style [15:33:21]: hello
+test2 [15:33:41]: /msg style �ਢ�� ��ᨪ
+test3 [15:42:24]: hello
+style [15:42:30]: hello test
+1 [15:48:52]: sfsdf
+2 [15:49:10]: hello
+1 [15:49:14]: hello
+Влад [15:54:05]: привет
