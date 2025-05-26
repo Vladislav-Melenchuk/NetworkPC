@@ -1,0 +1,17 @@
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\bin\Debug\net9.0-windows\HW9.exe
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\bin\Debug\net9.0-windows\HW9.deps.json
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\bin\Debug\net9.0-windows\HW9.runtimeconfig.json
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\bin\Debug\net9.0-windows\HW9.dll
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\bin\Debug\net9.0-windows\HW9.pdb
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.Form1.resources
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.csproj.GenerateResource.cache
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.AssemblyInfoInputs.cache
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.AssemblyInfo.cs
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.csproj.CoreCompileInputs.cache
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.sourcelink.json
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.dll
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\refint\HW9.dll
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.pdb
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\HW9.genruntimeconfig.cache
+D:\Course\NetworkPC\NetworkPC\HW_9\HW9\obj\Debug\net9.0-windows\ref\HW9.dll
