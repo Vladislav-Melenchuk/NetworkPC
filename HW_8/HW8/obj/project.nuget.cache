@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qyOcf9p9nA=",
+  "success": true,
+  "projectFilePath": "D:\\Course\\NetworkPC\\HW\\HW_8\\HW8\\HW8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mr_sv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\mr_sv\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
